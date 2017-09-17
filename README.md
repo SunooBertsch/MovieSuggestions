@@ -18,5 +18,7 @@ A fast, simple application which allows the user to select a movie genre, and su
 **Developers**
 
 Sunoo Bertsch
+
 Kieran Jones
+
 Kelsey Taylor
